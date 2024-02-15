@@ -1,5 +1,5 @@
 U2 above the first line
-Above the first line u1 change
+Above the first line u1 change, changed by u2
 This is first file - f1 main
 This is the second line - f1 update
 This is the third line - main change
