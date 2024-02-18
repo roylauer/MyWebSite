@@ -1,3 +1,2 @@
 This is the first line
 This is a new feature
-This is the last line
